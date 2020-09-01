@@ -58,5 +58,5 @@ Here are some ideas of what I’m currently working on:
 
 <br>
 
-### GitHub Status
+### My GitHub status
 [![My Github Status](https://github-readme-stats.vercel.app/api?username=MarcusVRdoN&count_private=true&show_icons=true)](https://github.com/MarcusVRdoN)
