@@ -1,15 +1,21 @@
-### Hi there 👋
+### Hi there, my name's Marcus V. 👋
 
-Here are some ideas to get you started:
+> I'm a very enthusiasm developer and expert in challenges and deadlines. I believe that my work contributes to the accomplishment of the goals of the company.
+>
+> In my carrer I've been able to learn how to write code efficiently in a diverse teams, improve legacy code in many projects and implement new features according to the client’s needs.
+>
+> My passion for web development started when I built my first "hello world" on a technical course. It was an amazing feeling. Since then I've been focusing on website development, web applications and mobile apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Here are some ideas of what I’m currently working on:
+
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning [React Native](https://reactnative.dev/), [TypeScript](https://www.typescriptlang.org/) e [GraphQL](https://graphql.org/)
+- 👯 I’m looking to collaborate on JavaScript projects of any type and framework
+- 🤔 I’m looking for help with freelances and international apply
+- 💬 Ask me about Front-end, Vue.js, React and JavaScript
+- 📫 How to reach me: [marcusvrdon@gmail.com](mailto:marcusvrdon@gmail.com)
+<!-- - 😄 Pronouns: enthusiasm developer, challenges, deadlines -->
+<!-- - ⚡ Fun fact: ... -->
 
 <br>
 
