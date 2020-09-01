@@ -1,4 +1,5 @@
 ### Hi there, my name's Marcus V. 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcusvrdon)](https://www.linkedin.com/in/marcusvrdon)
 
 > I'm a very enthusiasm developer and expert in challenges and deadlines. I believe that my work contributes to the accomplishment of the goals of the company.
 >
@@ -17,6 +18,4 @@ Here are some ideas of what I’m currently working on:
 <!-- - 😄 Pronouns: enthusiasm developer, challenges, deadlines -->
 <!-- - ⚡ Fun fact: ... -->
 
-<br>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcusvrdon)](https://www.linkedin.com/in/marcusvrdon)
+[![My Github Status](https://github-readme-stats.vercel.app/api?username=MarcusVRdoN&count_private=true&show_icons=true)](https://github.com/MarcusVRdoN)
