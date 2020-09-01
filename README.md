@@ -59,4 +59,6 @@ Here are some ideas of what I’m currently working on:
 <br>
 
 ### My GitHub status
+[![My favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusVRdoN&layout=compact)](https://github.com/MarcusVRdoN)
+<br>
 [![My Github Status](https://github-readme-stats.vercel.app/api?username=MarcusVRdoN&count_private=true&show_icons=true)](https://github.com/MarcusVRdoN)
