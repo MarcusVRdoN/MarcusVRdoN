@@ -1,21 +1,24 @@
 ## Hi there, my name's Marcus V. 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcusvrdon)](https://www.linkedin.com/in/marcusvrdon)
 
-> I'm a very enthusiasm developer and expert in challenges and deadlines. I believe that my work contributes to the accomplishment of the goals of the company.
+>As a professional web developer, I thrive on overcoming challenges and meeting deadlines. I firmly believe that the work I produce makes a significant contribution to the company's objectives. I am excited about the opportunity to collaborate with your esteemed team.
 >
-> In my carrer I've been able to learn how to write code efficiently in a diverse teams, improve legacy code in many projects and implement new features according to the client’s needs.
+>Throughout my professional career, I have acquired a wealth of experience in coding with a focus on efficiency, collaborating with diverse teams, improving legacy code in numerous projects, and implementing new features to meet the specific requirements of clients. My expertise in these areas has been honed through a combination of practical experience and academic study, and I am confident in my ability to deliver high-quality results on any task that falls within my purview.
 >
-> My passion for web development started when I built my first "hello world" on a technical course. It was an amazing feeling. Since then I've been focusing on website development, web applications and mobile apps.
-
+>My love for web development sparked from building my first "hello world" on a technical course. Since then, I have been honing my skills in website development, web applications, and mobile apps.
+>
+>It seems to me that your company is an innovative and lively organization like taking on new challenges. This is precisely what I have been searching for. I possess strong determination, passion, and exceptional adaptability, which I believe would make me a valuable asset to your team.
+>
+>So, feel free to reach out to me so we can discuss how we might collaborate to achieve positive outcomes. See you soon!
 <br>
 
 Here are some ideas of what I’m currently working on:
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning [React Native](https://reactnative.dev/), [TypeScript](https://www.typescriptlang.org/) e [GraphQL](https://graphql.org/)
+- 🌱 I’m currently learning Multi Clouds, Containerization, and [NestJS](https://nestjs.com/)
 - 👯 I’m looking to collaborate on JavaScript projects of any type and framework
-- 🤔 I’m looking for help with freelances and international apply
-- 💬 Ask me about Front-end, Vue.js, React and JavaScript
+- 🤔 I’m looking for help with freelance and international apply
+- 💬 Ask me about Front-end, Back-end, JavaScript, TypeScript, React, Next.js, Node.js, Serverless, AWS
 - 📫 How to reach me: [marcusvrdon@gmail.com](mailto:marcusvrdon@gmail.com)
 <!-- - 😄 Pronouns: enthusiasm developer, challenges, deadlines -->
 <!-- - ⚡ Fun fact: ... -->
@@ -31,29 +34,46 @@ Here are some ideas of what I’m currently working on:
 </p>
 <p>
   <img src="https://img.shields.io/badge/SASS%20-%23333?&style=for-the-badge&logo=sass"/>
-  <img src="https://img.shields.io/badge/jQuery%20-%23333?&style=for-the-badge&logo=jquery&logoColor=0769ad"/>
-  <img src="https://img.shields.io/badge/TypeScript%20-%23333?&style=for-the-badge&logo=typescript&logoColor=007acc"/>
+  <img src="https://img.shields.io/badge/Bootstrap%20-%23333?&style=for-the-badge&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind%20-%23333?&style=for-the-badge&logo=tailwindcss"/>
+  <img src="https://img.shields.io/badge/Material%20-%23333?&style=for-the-badge&logo=material-design"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Vue.js%20-%23333?&style=for-the-badge&logo=vue.js"/>
+  <img src="https://img.shields.io/badge/TypeScript%20-%23333?&style=for-the-badge&logo=typescript&logoColor=007acc"/>
   <img src="https://img.shields.io/badge/React%20-%23333?&style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Vue.js%20-%23333?&style=for-the-badge&logo=vue.js"/>
   <img src="https://img.shields.io/badge/Angular%20-%23333?&style=for-the-badge&logo=angular&logoColor=dd0031"/>
 </p>
 
 #### Back-end
 <p>
   <img src="https://img.shields.io/badge/Node.js%20-%23333?&style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express%20-%23333?&style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/NestJS%20-%23333?&style=for-the-badge&logo=nestjs"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/PHP%20-%23333?&style=for-the-badge&logo=php"/>
   <img src="https://img.shields.io/badge/Laravel%20-%23333?&style=for-the-badge&logo=laravel"/>
-  <img src="https://img.shields.io/badge/Express%20-%23333?&style=for-the-badge&logo=expressjs"/>
 </p>
 
 #### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL%20-%23333?&style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/PostgreSQL%20-%23333?&style=for-the-badge&logo=postgresql&logoColor=336791"/>
+  <img src="https://img.shields.io/badge/RDS%20-%23333?&style=for-the-badge&logo=amazon-rds"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/DynamoDB%20-%23333?&style=for-the-badge&logo=amazon-dynamodb"/>
   <img src="https://img.shields.io/badge/MongoDB%20-%23333?&style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Firebase%20-%23333?&style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Redis%20-%23333?&style=for-the-badge&logo=redis"/>
+</p>
+
+#### Clouds
+<p>
+  <img src="https://img.shields.io/badge/AWS%20-%23333?&style=for-the-badge&logo=amazon-web-services"/>
+  <img src="https://img.shields.io/badge/Azure%20-%23333?&style=for-the-badge&logo=azure"/>
+  <img src="https://img.shields.io/badge/GCP%20-%23333?&style=for-the-badge&logo=gcp"/>
 </p>
 
 <br>
