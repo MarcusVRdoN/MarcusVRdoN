@@ -1,84 +1,105 @@
-## Hi there, my name's Marcus V. 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcusvrdon)](https://www.linkedin.com/in/marcusvrdon)
+## Hi there, I'm Marcus Vinícius 👋
 
->As a professional web developer, I thrive on overcoming challenges and meeting deadlines. I firmly believe that the work I produce makes a significant contribution to the company's objectives. I am excited about the opportunity to collaborate with your esteemed team.
->
->Throughout my professional career, I have acquired a wealth of experience in coding with a focus on efficiency, collaborating with diverse teams, improving legacy code in numerous projects, and implementing new features to meet the specific requirements of clients. My expertise in these areas has been honed through a combination of practical experience and academic study, and I am confident in my ability to deliver high-quality results on any task that falls within my purview.
->
->My love for web development sparked from building my first "hello world" on a technical course. Since then, I have been honing my skills in website development, web applications, and mobile apps.
->
->It seems to me that your company is an innovative and lively organization like taking on new challenges. This is precisely what I have been searching for. I possess strong determination, passion, and exceptional adaptability, which I believe would make me a valuable asset to your team.
->
->So, feel free to reach out to me so we can discuss how we might collaborate to achieve positive outcomes. See you soon!
-<br>
+<p>
+  <a href="https://www.linkedin.com/in/marcusvrdon"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-marcusvrdon-0A66C2?style=for-the-badge"/></a>
+  <a href="mailto:marcusvrdon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marcusvrdon@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img alt="Porto Alegre, Brazil" src="https://img.shields.io/badge/Porto_Alegre,_Brazil-333?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
-Here are some ideas of what I’m currently working on:
+**Senior Software Engineer & Tech Lead** · Full stack with a backend focus · Event-driven and serverless on AWS · Enterprise integrations · AI engineering
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Multi Clouds, Containerization, and [NestJS](https://nestjs.com/)
-- 👯 I’m looking to collaborate on JavaScript projects of any type and framework
-- 🤔 I’m looking for help with freelance and international apply
-- 💬 Ask me about Front-end, Back-end, JavaScript, TypeScript, React, Next.js, Node.js, Serverless, AWS
-- 📫 How to reach me: [marcusvrdon@gmail.com](mailto:marcusvrdon@gmail.com)
-<!-- - 😄 Pronouns: enthusiasm developer, challenges, deadlines -->
-<!-- - ⚡ Fun fact: ... -->
+> I've been building software for more than 10 years, and these days my focus is mainly on backend, distributed systems and cloud-native applications, without ever letting go of the frontend. I really enjoy the kind of problem where the system has to keep working when the volume grows, an integration fails or part of the processing happens asynchronously.
+>
+> Basically, I like building things that hold up in production and have a real impact on what moves the needle for the business. Today I split my time between hands-on engineering and technical leadership: architecture decisions, code, code review, 1:1s, feedback and mentoring, always helping the team ship with quality and predictability!
 
 <br>
 
-### My stack
-#### Front-end
-<p>
-  <img src="https://img.shields.io/badge/HTML%20-%23333?&style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS%20-%23333?&style=for-the-badge&logo=css3&logoColor=157286"/>
-  <img src="https://img.shields.io/badge/Javascript%20-%23333?&style=for-the-badge&logo=javascript"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/SASS%20-%23333?&style=for-the-badge&logo=sass"/>
-  <img src="https://img.shields.io/badge/Bootstrap%20-%23333?&style=for-the-badge&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind%20-%23333?&style=for-the-badge&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/Material%20-%23333?&style=for-the-badge&logo=material-design"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/TypeScript%20-%23333?&style=for-the-badge&logo=typescript&logoColor=007acc"/>
-  <img src="https://img.shields.io/badge/React%20-%23333?&style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Vue.js%20-%23333?&style=for-the-badge&logo=vue.js"/>
-  <img src="https://img.shields.io/badge/Angular%20-%23333?&style=for-the-badge&logo=angular&logoColor=dd0031"/>
-</p>
+### 🏆 Some highlights
 
-#### Back-end
-<p>
-  <img src="https://img.shields.io/badge/Node.js%20-%23333?&style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express%20-%23333?&style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/NestJS%20-%23333?&style=for-the-badge&logo=nestjs"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PHP%20-%23333?&style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/Laravel%20-%23333?&style=for-the-badge&logo=laravel"/>
-</p>
-
-#### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL%20-%23333?&style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/PostgreSQL%20-%23333?&style=for-the-badge&logo=postgresql&logoColor=336791"/>
-  <img src="https://img.shields.io/badge/RDS%20-%23333?&style=for-the-badge&logo=amazon-rds"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/DynamoDB%20-%23333?&style=for-the-badge&logo=amazon-dynamodb"/>
-  <img src="https://img.shields.io/badge/MongoDB%20-%23333?&style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Firebase%20-%23333?&style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Redis%20-%23333?&style=for-the-badge&logo=redis"/>
-</p>
-
-#### Clouds
-<p>
-  <img src="https://img.shields.io/badge/AWS%20-%23333?&style=for-the-badge&logo=amazon-web-services"/>
-  <img src="https://img.shields.io/badge/Azure%20-%23333?&style=for-the-badge&logo=azure"/>
-  <img src="https://img.shields.io/badge/GCP%20-%23333?&style=for-the-badge&logo=gcp"/>
-</p>
+- **GenAI sales automation for a large healthcare distributor:** I was one of the core engineers behind a platform that raised the quote response rate from **30% to 70%** and generated **R$ 100 million in sales in just 8 months**, a result featured in one of Brazil's leading business magazines. I built its event-driven architecture with NestJS, MongoDB, DynamoDB and SQS, covering email ingestion and classification, smart extraction of proposal data and CRM integration.
+- **Serverless integration pipelines on AWS:** Lambda, S3, DynamoDB, SQS, EventBridge Pipes and Secrets Manager in TypeScript/Node.js, following Clean Architecture / Ports & Adapters, with CI/CD on CodePipeline/CodeBuild and high automated test coverage.
+- **ERP ↔ SaaS integration:** syncing SAP data with an infrastructure management platform through REST APIs, with automated spreadsheet conversion and event-driven processing.
+- **Portals and admin dashboards end to end:** authentication, dashboards and approval flows with React 19, Vite, TypeScript, Tailwind CSS, shadcn/ui, TanStack and Zod.
+- **Technical leadership:** leading a squad, designing technical interview processes, supporting hiring and onboarding junior, mid-level and senior developers, plus 1:1s, feedback and mentoring.
+- **10+ years across many contexts:** healthcare, infrastructure, education, mobility, e-commerce and tech products, including a fully remote team in New Zealand, working in English across opposite time zones.
 
 <br>
 
-### My GitHub status
-[![My favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusVRdoN&layout=compact)](https://github.com/MarcusVRdoN)
+### 🤖 AI-assisted engineering (with method, not vibes 😄)
+
+- Claude Code, Codex and Cursor in structured **plan → confirm → execute** workflows, using a stronger model to plan and a faster one to execute
+- **CLAUDE.md** and living docs as the project's source of truth, organized with progressive disclosure so agents get the right context at the right time
+- Agentic pipelines with Amazon Bedrock and LLMs for classification, data extraction and automation
+
+The result is really faster and more consistent deliveries, with documentation that keeps up with the code.
+
 <br>
-[![My Github Status](https://github-readme-stats.vercel.app/api?username=MarcusVRdoN&count_private=true&show_icons=true)](https://github.com/MarcusVRdoN)
+
+### 🧭 How I like to build
+
+- Clean Architecture, Ports & Adapters and DDD **when they make sense**, without over-engineering
+- Resilient async processing: idempotency, retries, dead-letter queues and solid observability (CloudWatch, Datadog, correlation IDs)
+- TDD and automated tests (Jest, Cypress), schema validation with Zod, Lambda middlewares with Middy
+- CI/CD with GitHub Actions and AWS CodePipeline/CodeBuild, Docker + LocalStack for local AWS development, conventional commits
+- Putting something in production is only part of the job; understanding how the system behaves after that matters just as much
+
+<br>
+
+### 🌱 Currently leveling up
+
+- 🧑‍🏫 Engineering leadership: people development, performance conversations and delivery predictability
+- ☸️ Kubernetes and containers at scale
+- 📨 Event streaming with Kafka and RabbitMQ
+- 🏗️ Infrastructure as Code with Terraform and AWS CDK
+- 🧠 AI engineering in production: RAG, vector databases and LLM agents with evaluation and guardrails
+
+<br>
+
+### 🛠️ Tech stack
+
+<p>
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,graphql,react,nextjs,vue,angular,vite,tailwind,aws,gcp,docker,githubactions,postgres,mysql,mongodb,dynamodb,redis,firebase,jest,cypress,php,laravel,html,css,sass,git,linux&perline=12"/>
+</p>
+<p>
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-333?style=for-the-badge&logo=claude&logoColor=D97757"/>
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-333?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-333?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+</p>
+
+| | |
+|---|---|
+| **Languages** | TypeScript, JavaScript (Node.js), SQL, PHP |
+| **Back-end** | Node.js, NestJS, Express, REST, GraphQL, Serverless Framework, Middy, Zod, microservices and messaging |
+| **AWS** | Lambda, DynamoDB, SQS, SNS, S3, EventBridge (Pipes), API Gateway, Step Functions, Secrets Manager, SSM Parameter Store, CloudWatch, CodePipeline/CodeBuild, Bedrock |
+| **Front-end** | React, Next.js, Vue, Angular, Vite, Tailwind CSS, shadcn/ui, TanStack, responsive design and accessibility (a11y) |
+| **Databases** | PostgreSQL, MySQL, MongoDB (Mongoose/Typegoose), DynamoDB, Redis, Firebase |
+| **Quality & DevOps** | Jest, Cypress, SonarQube, GitHub Actions, Docker, LocalStack, Datadog |
+| **Integrations** | SAP, Salesforce, Microsoft Graph API, product analytics instrumentation |
+| **AI tooling** | Claude Code, Codex, Cursor, GitHub Copilot, Amazon Bedrock, LLM agent pipelines |
+| **Ways of working** | Scrum, Kanban, Shape Up, code review, conventional commits |
+
+<br>
+
+### 💬 Ask me about
+
+TypeScript, Node.js, NestJS, AWS serverless, event-driven architecture, system integrations, React, Clean Architecture, automated testing and AI-assisted development.
+
+### 🎓 Education & learning
+
+- MBA in Full Cycle Software Architecture
+- B.Sc. in Information Systems
+- Tech Lead Program, plus courses on Clean Code, Clean Architecture, DDD, event-driven architecture and microservices
+- 🌎 Portuguese (native) · English (professional working proficiency)
+
+### ⚡ Fun facts
+
+- I spent 4+ years teaching computer classes to kids and teens aged 6 to 18, which taught me a lot about explaining complex things in a simple way
+- I built my own PWA to track my gym workouts, because for a developer every problem looks like a side project 😄
+
+### 📌 About my GitHub activity
+
+Most of my work over the past years lives in private client repositories, so my public contribution graph only tells a small part of the story. I'm happy to walk you through real architecture and code examples!
+
+### 📫 Let's talk
+
+Always up for a good conversation about architecture, integrations, serverless or AI in software engineering, and for collaborating on TypeScript/Node.js, developer tooling and AI agent projects. Reach out on [LinkedIn](https://www.linkedin.com/in/marcusvrdon) or at [marcusvrdon@gmail.com](mailto:marcusvrdon@gmail.com). See you around!
